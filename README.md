@@ -37,4 +37,4 @@ More info about dataset can be found here:
 
 ## 7.Dashboard:
 <img src="dashboard.png">
-Link: https://lookerstudio.google.com/reporting/5a9f8f2a-1eb9-46bf-a972-85a14019c044
+
